@@ -8,4 +8,4 @@ https://router.vuejs.org/ja/guide/essentials/history-mode.html
 
 ## テスト用ファイル
 
-- /distにビルド済みのファイルを格納
+- /distにビルド済みのファイルを格納→/dist配下のファイルをS3に格納してテストする
